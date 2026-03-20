@@ -1,0 +1,435 @@
+categoryID,categoryName,period,artType
+167100707,Sculpture,1401 to 1500,Statue
+518306214,Sculpture,1401 to 1500,Bust
+860265459,Sculpture,1851 to 1875,Relief
+1053739494,Sculpture,1401 to 1500,Relief
+1469333834,Sculpture,1801 to 1825,Relief
+2079318363,Sculpture,1401 to 1500,Statuette
+1462856813,Sculpture,1401 to 1500,Antiquities
+448139939,Sculpture,1851 to 1875,Bust
+2123718968,Sculpture,1776 to 1800,Statue
+697687369,Sculpture,1551 to 1600,Statue
+962290836,Sculpture,1601 to 1650,Relief
+197794692,Sculpture,1501 to 1550,Relief
+622587800,Sculpture,1651 to 1700,Statue
+1944058975,Sculpture,1851 to 1875,Utilitarian Object
+104949228,Sculpture,1926 to 1950,Relief
+1236477397,Sculpture,1876 to 1900,Statuette
+482281057,Sculpture,1876 to 1900,Figure Fragment
+1015305505,Sculpture,1901 to 1925,Bust
+828865851,Sculpture,1851 to 1875,Statue
+1016981293,Sculpture,1876 to 1900,Statue
+263115646,Sculpture,1876 to 1900,Small Bronze
+1546405427,Sculpture,1876 to 1900,Bust
+1369641115,Sculpture,1901 to 1925,Statuette
+1766966971,Sculpture,1901 to 1925,Figure Fragment
+1632649246,Sculpture,1876 to 1900,Relief
+1910436647,Sculpture,1826 to 1850,Relief
+1079596169,Sculpture,1926 to 1950,Bust
+655199664,Sculpture,1651 to 1700,Small Bronze
+1942869001,Sculpture,1501 to 1550,Small Bronze
+1122602447,Sculpture,1401 to 1500,Small Bronze
+334264809,Sculpture,1551 to 1600,Small Bronze
+542745301,Sculpture,1776 to 1800,Relief
+1196025069,Sculpture,1551 to 1600,Relief
+186504931,Sculpture,1601 to 1650,Bust
+1796798072,Sculpture,1701 to 1725,Statuette
+970054183,Sculpture,1726 to 1750,Small Bronze
+2008564111,Sculpture,1776 to 1800,Bust
+1323016696,Sculpture,1726 to 1750,Bust
+692951805,Sculpture,1651 to 1700,Bust
+1798235883,Sculpture,1551 to 1600,Utilitarian Object
+563825969,Sculpture,1701 to 1725,Statue
+1746858623,Sculpture,1501 to 1550,Utilitarian Object
+767968458,Sculpture,1501 to 1550,Bust
+1319564991,Sculpture,1601 to 1650,Statuette
+764748475,Sculpture,1401 to 1500,Plaquette
+1720301292,Sculpture,1776 to 1800,Utilitarian Object
+740781835,Sculpture,1401 to 1500,Utilitarian Object
+923005045,Sculpture,1401 to 1500,Medal/Medallion
+1058010286,Sculpture,1551 to 1600,Medal/Medallion
+526660296,Sculpture,1501 to 1550,Medal/Medallion
+962003503,Sculpture,1501 to 1550,Plaquette
+1229121113,Sculpture,1551 to 1600,Plaquette
+1402932988,Sculpture,1300 to 1400,Plaquette
+2003482473,Sculpture,1401 to 1500,Applique
+1582881483,Sculpture,1300 to 1400,Applique
+167734442,Sculpture,1601 to 1650,Applique
+168208433,Sculpture,1551 to 1600,Applique
+1905810641,Decorative Art,1826 to 1850,Utilitarian Object
+2133654158,Decorative Art,before 1300,Liturgical Object
+419713999,Decorative Art,before 1300,Reliquary Object
+1838549153,Decorative Art,1300 to 1400,Liturgical Object
+213119454,Decorative Art,before 1300,Statuette
+944876192,Decorative Art,1776 to 1800,Liturgical Object
+581310584,Decorative Art,1401 to 1500,Liturgical Object
+2017675285,Decorative Art,1300 to 1400,Jewelry
+608808554,Decorative Art,1401 to 1500,Enamel
+1200796491,Decorative Art,1501 to 1550,Enamel
+183313422,Decorative Art,1551 to 1600,Enamel
+1550086843,Decorative Art,1551 to 1600,Rock Crystal
+1275401145,Decorative Art,1501 to 1550,Rock Crystal
+325455165,Decorative Art,1601 to 1650,Rock Crystal
+309278793,Decorative Art,1826 to 1850,Rock Crystal
+428404300,Decorative Art,1851 to 1875,Rock Crystal
+1959393368,Decorative Art,1851 to 1875,Jewelry
+1563958632,Decorative Art,1876 to 1900,Jewelry
+1448653439,Decorative Art,1401 to 1500,Stained Glass
+581603632,Decorative Art,1501 to 1550,Ceramic
+2013540585,Decorative Art,1401 to 1500,Ceramic
+120928446,Decorative Art,1551 to 1600,Ceramic
+1955902412,Decorative Art,1401 to 1500,Armor
+843940589,Decorative Art,1501 to 1550,Armor
+1480284002,Decorative Art,1501 to 1550,Furniture
+867794134,Decorative Art,1401 to 1500,Furniture
+273887684,Decorative Art,1300 to 1400,Furniture
+1325811634,Decorative Art,1776 to 1800,Furniture
+294075998,Decorative Art,1726 to 1750,Furniture
+449281899,Decorative Art,1751 to 1775,Furniture
+480789982,Decorative Art,1701 to 1725,Furniture
+1597022470,Decorative Art,1826 to 1850,Furniture
+493588431,Decorative Art,1701 to 1725,Ceramic
+1935557266,Decorative Art,1401 to 1500,Textile
+1626885475,Decorative Art,1501 to 1550,Textile
+713534116,Decorative Art,1551 to 1600,Textile
+1567907041,Decorative Art,1751 to 1775,Textile
+235972426,Decorative Art,1776 to 1800,Textile
+198323071,Decorative Art,1651 to 1700,Textile
+1741466102,Decorative Art,1300 to 1400,Textile
+1477162636,Decorative Art,1601 to 1650,Textile
+195652472,Decorative Art,1601 to 1650,Ceramic
+420852918,Decorative Art,1651 to 1700,Ceramic
+628848632,Decorative Art,1826 to 1850,Ceramic
+2023670713,Decorative Art,1726 to 1750,Ceramic
+183801584,Decorative Art,1876 to 1900,Utilitarian Object
+1322765650,Decorative Art,1801 to 1825,Ceramic
+202824145,Volume,1776 to 1800,Drawing
+1807903973,Volume,1751 to 1775,Drawing
+1636110626,Volume,1751 to 1775,Print
+151812937,Volume,1776 to 1800,Drawing/Print
+1208492671,Volume,1776 to 1800,Print
+428444965,Volume,1751 to 1775,Drawing/Print
+1359823919,Volume,1701 to 1725,Drawing/Print
+1539961101,Volume,1801 to 1825,Print
+267668777,Volume,1701 to 1725,Print
+1289070866,Portfolio,1751 to 1775,Print
+447454863,Volume,1651 to 1700,Print
+2019981008,Volume,1726 to 1750,Print
+694286569,Volume,1801 to 1825,Drawing/Print
+792680248,Sculpture,1651 to 1700,Utilitarian Object
+664687222,Sculpture,before 1300,Figure Fragment
+317489346,Sculpture,1776 to 1800,Statuette
+1190142544,Sculpture,1826 to 1850,Bust
+540775906,Print,1401 to 1500,Playing Card
+1612854301,Technical Material,1926 to 1950,Printmaking Matrices
+760323460,Volume,1851 to 1875,Drawing
+916461233,Portfolio,1801 to 1825,Print
+1049178395,Technical Material,1551 to 1600,Printmaking Matrices
+2010991112,Technical Material,1876 to 1900,Printmaking Matrices
+1774856061,Technical Material,1851 to 1875,Printmaking Matrices
+1440953642,Technical Material,1826 to 1850,Printmaking Matrices
+1383318885,Technical Material,1801 to 1825,Printmaking Matrices
+1503566827,Technical Material,1776 to 1800,Printmaking Matrices
+1427343403,Technical Material,1726 to 1750,Printmaking Matrices
+581804835,Volume,1551 to 1600,Print
+1920334200,Volume,1601 to 1650,Drawing
+1244243499,Portfolio,1876 to 1900,Print
+991093045,Volume,1826 to 1850,Print
+1958536956,Volume,1401 to 1500,Print
+1979970840,Volume,1501 to 1550,Drawing
+1023638990,Volume,1851 to 1875,Print
+405166234,Volume,1801 to 1825,Drawing
+2067044107,Portfolio,1851 to 1875,Print
+2043459097,Portfolio,1926 to 1950,Print
+1747864952,Volume,1876 to 1900,Print
+737571822,Print,1776 to 1800,Endpaper
+552629769,Print,1751 to 1775,Endpaper
+1207943769,Print,1651 to 1700,Endpaper
+349293053,Volume,1401 to 1500,Drawing/Print
+1182293952,Print,1551 to 1600,Historical Portrait
+462678615,Print,1601 to 1650,Historical Portrait
+1664211902,Portfolio,1901 to 1925,Print
+1495226790,Print,1551 to 1600,Playing Card
+1750458455,Sculpture,1501 to 1550,Statuette
+951045997,Sculpture,1300 to 1400,Bust
+551756683,Sculpture,1551 to 1600,Bust
+534923444,Sculpture,1601 to 1650,Statue
+340095232,Index of American Design,1926 to 1950,Drawing
+2132635655,Index of American Design,1851 to 1875,Drawing
+1078047268,Index of American Design,1951 to 1975,Drawing
+1479132584,Index of American Design,1901 to 1925,Drawing
+1015329322,Index of American Design,1876 to 1900,Drawing
+202523154,Index of American Design,1976 to 2000,Drawing
+871596809,Volume,1601 to 1650,Print
+703051461,Portfolio,1651 to 1700,Print
+1488948223,Decorative Art,1651 to 1700,Enamel
+745661712,Volume,1926 to 1950,Print
+795173166,Volume,1901 to 1925,Print
+1947773212,Drawing,1801 to 1825,Miniature
+833190404,Drawing,1401 to 1500,Miniature
+1764995782,Drawing,1851 to 1875,Miniature
+342668082,Drawing,before 1300,Miniature
+1406849926,Drawing,1300 to 1400,Miniature
+1279280466,Technical Material,1401 to 1500,Printmaking Matrices
+359233363,Portfolio,1776 to 1800,Print
+146830299,Photograph,1876 to 1900,Print
+1077078620,Photograph,1901 to 1925,Print
+2069799243,Drawing,1776 to 1800,Miniature
+1825614699,Sculpture,1776 to 1800,Figure Fragment
+1015186395,Print,1651 to 1700,Historical Portrait
+537156227,Print,1501 to 1550,Historical Portrait
+447396874,Print,1776 to 1800,Historical Portrait
+1657006457,Print,1701 to 1725,Historical Portrait
+1901942657,Print,1801 to 1825,Historical Portrait
+1441598937,Print,1726 to 1750,Historical Portrait
+439822394,Print,1751 to 1775,Historical Portrait
+1436989160,Print,1826 to 1850,Historical Portrait
+1128323993,Print,1401 to 1500,Historical Portrait
+1997957514,Portfolio,1926 to 1950,Drawing
+345830511,Decorative Art,1701 to 1725,Textile
+329096634,Print,1901 to 1925,Historical Portrait
+1013933681,Print,1300 to 1400,Playing Card
+1427182998,Sculpture,1851 to 1875,Small Bronze
+859626803,Sculpture,1726 to 1750,Statue
+422446156,Sculpture,1751 to 1775,Statue
+1317623896,Sculpture,1751 to 1775,Statuette
+658969145,Sculpture,1401 to 1500,Liturgical Object
+618687089,Volume,1501 to 1550,Print
+1788687228,Sculpture,1300 to 1400,Statue
+1126030313,Portfolio,1951 to 1975,Print
+1600588456,Technical Material,1751 to 1775,Printmaking Matrices
+1670160438,Decorative Art,1551 to 1600,Utilitarian Object
+312902800,Sculpture,1951 to 1975,Relief
+323975095,Decorative Art,1651 to 1700,Furniture
+1141348171,Decorative Art,1726 to 1750,Architectural Element
+907606162,Decorative Art,1776 to 1800,Architectural Element
+1924321433,Sculpture,1776 to 1800,Small Bronze
+440775794,Sculpture,1601 to 1650,Medal/Medallion
+990358473,Sculpture,1300 to 1400,Small Bronze
+225548794,Sculpture,1601 to 1650,Small Bronze
+1396916664,Sculpture,before 1300,Antiquities
+532337199,Sculpture,1851 to 1875,Plaquette
+616976002,Sculpture,1501 to 1550,Applique
+1006591380,Sculpture,1651 to 1700,Plaquette
+1139577043,Sculpture,1601 to 1650,Plaquette
+253052213,Sculpture,1651 to 1700,Medal/Medallion
+1918485760,Sculpture,1726 to 1750,Medal/Medallion
+1609529004,Sculpture,1776 to 1800,Medal/Medallion
+298322242,Sculpture,1751 to 1775,Medal/Medallion
+911187603,Sculpture,1401 to 1500,Coin
+1179584303,Sculpture,1300 to 1400,Coin
+1016087244,Sculpture,1501 to 1550,Coin
+1142872805,Drawing,before 1300,Archival
+1979104052,Sculpture,1300 to 1400,Relief
+1552592599,Sculpture,1300 to 1400,Statuette
+693732405,Sculpture,1501 to 1550,Statue
+572342696,Sculpture,1851 to 1875,Statuette
+1482523172,Sculpture,1401 to 1500,Niello Plate
+1746702135,Sculpture,1300 to 1400,Niello Plate
+1106607809,Sculpture,1726 to 1750,Niello Plate
+2021827214,Sculpture,1501 to 1550,Niello Plate
+1629774444,Sculpture,1551 to 1600,Niello Plate
+833093827,Sculpture,1651 to 1700,Niello Plate
+1028698490,Sculpture,1751 to 1775,Niello Plate
+1865509525,Sculpture,1776 to 1800,Niello Plate
+1057415642,Sculpture,before 1300,Niello Plate
+1439841670,Decorative Art,before 1300,Enamel
+1693432968,Decorative Art,1300 to 1400,Enamel
+1190374297,Decorative Art,1501 to 1550,Utilitarian Object
+383508161,Sculpture,1876 to 1900,Medal/Medallion
+2138186899,Sculpture,1901 to 1925,Medal/Medallion
+1436049631,Volume,1951 to 1975,Print
+667658185,Sculpture,1926 to 1950,Death Mask
+675044662,Sculpture,1901 to 1925,Death Mask
+1151152192,Sculpture,1876 to 1900,Utilitarian Object
+1062858350,Sculpture,1651 to 1700,Relief
+843236561,Drawing,1501 to 1550,Miniature
+565941444,Print,1726 to 1750,Playing Card
+916062997,Decorative Art,1776 to 1800,Utilitarian Object
+1916604916,Sculpture,1901 to 1925,Statue
+1256294402,Sculpture,1826 to 1850,Small Bronze
+1272719837,Sculpture,1926 to 1950,Statue
+746804495,Sculpture,1951 to 1975,Statue
+1282542070,Sculpture,1926 to 1950,Statuette
+707806027,Sculpture,before 1300,Statue
+1952297399,Painting,1951 to 1975,Collage
+346696318,Painting,1901 to 1925,Collage
+2103377910,Decorative Art,before 1300,Ceramic
+1136415652,Decorative Art,1776 to 1800,Ceramic
+118239936,Decorative Art,1851 to 1875,Ceramic
+851704721,Decorative Art,1901 to 1925,Ceramic
+1223809580,Decorative Art,1876 to 1900,Ceramic
+619944687,Sculpture,1951 to 1975,Multiple
+1675315524,Sculpture,1551 to 1600,Liturgical Object
+416762926,Painting,1926 to 1950,Collage
+2017833607,Sculpture,1701 to 1725,Small Bronze
+1164457373,Portfolio,1826 to 1850,Print
+2138472601,Sculpture,1901 to 1925,Relief
+1485521638,Sculpture,1951 to 1975,Mobile
+624253225,Decorative Art,1951 to 1975,Textile
+848005901,Sculpture,1826 to 1850,Statuette
+1680229840,Portfolio,1876 to 1900,Drawing
+836236602,Sculpture,1976 to 2000,Mobile
+1781720528,Decorative Art,1976 to 2000,Textile
+1631853405,Portfolio,1976 to 2000,Print
+340388805,Volume,1876 to 1900,Drawing
+295891859,Decorative Art,1876 to 1900,Textile
+1694902599,Print,1951 to 1975,Molded Paper
+1130296386,Sculpture,1801 to 1825,Statuette
+139209965,Sculpture,1801 to 1825,Small Bronze
+1564419162,Technical Material,1951 to 1975,Printmaking Matrices
+2068956543,Volume,1976 to 2000,Print
+175011602,Volume,1951 to 1975,Drawing/Print
+495363580,Volume,1976 to 2000,Molded Paper
+2077884352,Sculpture,1951 to 1975,Medal/Medallion
+231096678,Print,1651 to 1700,Playing Card
+1461848234,Print,1976 to 2000,Molded Paper
+157688465,Sculpture,1976 to 2000,Multiple
+1636060830,Sculpture,1801 to 1825,Statue
+1917084654,Sculpture,1951 to 1975,Small Bronze
+2085312180,Volume,1726 to 1750,Drawing
+1804152806,Volume,1926 to 1950,Drawing
+1592842777,Volume,1901 to 1925,Drawing
+1498514679,Painting,1976 to 2000,Collage
+1756102212,Sculpture,1976 to 2000,Small Bronze
+1696884981,Sculpture,1751 to 1775,Bust
+104043022,Sculpture,1976 to 2000,Maquette
+1036707178,Sculpture,1951 to 1975,Maquette
+1346988784,Drawing,1751 to 1775,Miniature
+1548520173,Volume,1701 to 1725,Drawing
+1252052767,Volume,1551 to 1600,Drawing
+2106365218,Drawing,1551 to 1600,Miniature
+1232557635,Volume,1651 to 1700,Drawing
+610262083,Sculpture,1901 to 1925,Small Bronze
+1711440376,Photograph,1901 to 1925,Proof Sheet
+613793043,Print,1901 to 1925,Endpaper
+1557324858,Sculpture,1801 to 1825,Bust
+1782064346,Sculpture,1976 to 2000,Stabile
+2020838141,Volume,1951 to 1975,Drawing
+994527641,Volume,1951 to 1975,Photograph
+1891908101,Photograph,1926 to 1950,Print
+327770730,Decorative Art,1901 to 1925,Textile
+209890540,Sculpture,1551 to 1600,Statuette
+1390553761,Volume,1876 to 1900,Photograph
+1181324985,Sculpture,1701 to 1725,Medal/Medallion
+1619950071,Sculpture,1826 to 1850,Plaquette
+1810125931,Photograph,1951 to 1975,Contact Sheet
+257365592,Photograph,1926 to 1950,Work Print
+1647184251,Photograph,1951 to 1975,Work Print
+594610825,Photograph,1926 to 1950,Contact Sheet
+415512866,Drawing,1876 to 1900,Archival
+766365793,Sculpture,1976 to 2000,Bust
+1713831751,Volume,1826 to 1850,Drawing
+219582342,Sculpture,1976 to 2000,Head
+1797578804,Photograph,1926 to 1950,Proof Sheet
+319854105,Sculpture,1926 to 1950,Small Bronze
+326889825,Photograph,1851 to 1875,Print
+259832035,Photograph,1826 to 1850,Negative
+1424027232,Sculpture,1926 to 1950,Mobile
+1853666246,Sculpture,1926 to 1950,Stabile
+1466153557,Sculpture,1951 to 1975,Stabile
+575318908,Decorative Art,1926 to 1950,Jewelry
+1894123763,Sculpture,1876 to 1900,Head
+1545790424,Sculpture,1901 to 1925,Head
+1471559260,Sculpture,1501 to 1550,Medallic Die
+1063880163,Volume,1976 to 2000,Drawing/Print
+163279929,Technical Material,1976 to 2000,Printmaking Matrices
+330614074,Technical Material,1601 to 1650,Printmaking Matrices
+232438441,Technical Material,1976 to 2000,Death Mask
+248437270,Technical Material,1976 to 2000,Mask
+229599777,Sculpture,1801 to 1825,Medal/Medallion
+268809403,Sculpture,1851 to 1875,Medal/Medallion
+2108209763,Volume,1976 to 2000,Drawing
+1836850807,Sculpture,1651 to 1700,Statuette
+1624829049,Technical Material,1651 to 1700,Printmaking Matrices
+493295098,Decorative Art,1901 to 1925,Architectural Element
+465046918,Print,1876 to 1900,Endpaper
+1986560730,Volume,1976 to 2000,Photograph
+855064331,Drawing,1951 to 1975,Archival
+663488654,Drawing,1976 to 2000,Archival
+1742114690,Photograph,1951 to 1975,Print
+1658193559,Sculpture,1976 to 2000,Photograph
+325666372,Sculpture,1826 to 1850,Medal/Medallion
+416912652,Photograph,1926 to 1950,Negative
+1899432590,Drawing,1901 to 1925,Archival
+1536792201,Portfolio,1726 to 1750,Print
+1171966749,Volume,1901 to 1925,Photograph
+1987367316,Sculpture,1951 to 1975,Figure Fragment
+1340232823,Volume,1926 to 1950,Photograph
+847376526,Portfolio,1601 to 1650,Print
+1091150556,Portfolio,1551 to 1600,Print
+1256790775,Sculpture,1701 to 1725,Relief
+1444454917,Sculpture,1926 to 1950,Medal/Medallion
+1606342255,Portfolio,1501 to 1550,Print
+1109403201,Sculpture,1876 to 1900,Plaquette
+1197142267,Sculpture,1776 to 1800,Medallic Die
+1118585185,Print,1726 to 1750,Endpaper
+717228592,Photograph,1851 to 1875,Negative
+1791953776,Photograph,1776 to 1800,Negative
+1403373347,Sculpture,1851 to 1875,Figure Fragment
+643399563,Portfolio,2001 to present,Print
+1148707511,Sculpture,1726 to 1750,Statuette
+1990988253,Sculpture,1300 to 1400,Medal/Medallion
+1612225150,Portfolio,1701 to 1725,Print
+1267825919,Photograph,1876 to 1900,Negative
+978518128,Print,2001 to present,Endpaper
+292324594,Sculpture,1901 to 1925,Multiple
+1940599096,Sculpture,1901 to 1925,Coin
+777684584,Sculpture,1826 to 1850,Statue
+941934814,Photograph,1826 to 1850,Print
+925079986,Sculpture,1901 to 1925,Plaquette
+2029524672,Volume,1851 to 1875,Photograph
+730289727,Photograph,2001 to present,Print
+651302768,Volume,1726 to 1750,Drawing/Print
+229178377,Volume,2001 to present,Print
+661669492,Photograph,1976 to 2000,Print
+2023973681,Print,1851 to 1875,Endpaper
+1744663439,Volume,2001 to present,Photograph
+1057719735,Print,1976 to 2000,Endpaper
+2133723322,Technical Material,1901 to 1925,Printmaking Matrices
+642143286,Print,1601 to 1650,Endpaper
+1455985195,Sculpture,1951 to 1975,Photograph
+609094086,Decorative Art,1801 to 1825,Textile
+294195595,Print,1951 to 1975,Multiple
+809680208,Print,1976 to 2000,Multiple
+672389145,Technical Material,1501 to 1550,Printmaking Matrices
+707413613,Sculpture,1751 to 1775,Liturgical Object
+643850683,Sculpture,1726 to 1750,Relief
+1120396618,Volume,1926 to 1950,Drawing/Print
+646871214,Volume,1851 to 1875,Drawing/Print
+458883015,Volume,1876 to 1900,Drawing/Print
+1534456712,Sculpture,1951 to 1975,Applique
+1941452210,Volume,2001 to present,Drawing
+1708573853,Sculpture,2001 to present,Photograph
+1070209510,Sculpture,1901 to 1925,Medallic Die
+431979681,Sculpture,1976 to 2000,Medal/Medallion
+2096649920,Sculpture,1951 to 1975,Head
+740573645,Sculpture,1926 to 1950,Plaquette
+407607106,Drawing,1901 to 1925,Miniature
+1786707950,Sculpture,1776 to 1800,Head
+1464219409,Sculpture,1751 to 1775,Small Bronze
+844650041,Drawing,1926 to 1950,Miniature
+327606933,Sculpture,1776 to 1800,Death Mask
+496202250,Sculpture,1801 to 1825,Utilitarian Object
+901727541,Decorative Art,before 1300,Stained Glass
+1823077815,Drawing,1826 to 1850,Miniature
+1053221417,Drawing,1876 to 1900,Miniature
+1813193299,Sculpture,1826 to 1850,Utilitarian Object
+410387454,Sculpture,1901 to 1925,Utilitarian Object
+1269703123,Decorative Art,1801 to 1825,Utilitarian Object
+1736801309,Sculpture,1926 to 1950,Head
+269529790,Print,1826 to 1850,Photograph
+953610744,Decorative Art,2001 to present,Textile
+2071463979,Sculpture,2001 to present,Medal/Medallion
+1774773779,Sculpture,1801 to 1825,Figure Fragment
+2081621591,Drawing,1701 to 1725,Miniature
+1574058894,Photograph,1976 to 2000,Contact Sheet
+2070773380,Sculpture,1926 to 1950,Maquette
+1261481561,Painting,2001 to present,Collage
+1401267072,Decorative Art,1926 to 1950,Textile
+448520985,Print,1926 to 1950,Photograph
+1266658763,Print,1826 to 1850,Multiple
+782138499,Drawing,1651 to 1700,Miniature
+1742091301,Decorative Art,1651 to 1700,Utilitarian Object
+1360422027,Print,2001 to present,Multiple
+929533307,Print,2001 to present,Molded Paper
